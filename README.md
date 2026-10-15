@@ -24,8 +24,6 @@ A API foi desenvolvida para realizar **consultas** aos dados cadastrados no banc
 
 ## Como executar o projeto
 
-## Como executar o projeto
-
 1. Clone o repositório:
    ```bash
    git clone https://github.com/guisanzx/SalesCreCRM.git
