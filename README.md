@@ -6,11 +6,11 @@ A API utiliza as tabelas já existentes no banco de dados `SalesCoreCRM`, permit
 
 ## Tecnologias utilizadas
 
-- Visual Studio 2022 (criação da api)
+- vs2022 (criação da api)
 - C# (api) 
 - ASP.NET Core Web API (api)
-- sql server management studio 22 (banco de dados)
-- Swagger / OpenAPI (visualizador) 
+- ssms 22 (banco de dados)
+- swagger / openapi (visualizador) 
 
 ## Funcionalidades
 
@@ -24,6 +24,8 @@ A API foi desenvolvida para realizar **consultas** aos dados cadastrados no banc
 
 ## Como executar o projeto
 
+**banco de dados** 
+https://www.mediafire.com/file/yx9hencfazg83r6/SalesCoreCRM.bak/file 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/guisanzx/SalesCreCRM.git
